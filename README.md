@@ -8,7 +8,7 @@ Some of interesting facts about me... <br>
    ▸ 👨‍🍳 I love cooking and baking<br>
    ▸ 🎥 I have watched *The Office* 5 times
    
-<-- I am currently learning... <br>
+<!-- I am currently learning... <br>
    ▸ GoLang -->
    
 Learn more about me at [nicholaschung-hun.me](https://nicholaschung-hun.me).
